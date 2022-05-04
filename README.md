@@ -1,4 +1,4 @@
-# Dasafio de GitHub do Bootcamp do Carrefour
+# Desafio de GitHub do Bootcamp do Carrefour
 Primeiro desafio proposto pelo Bootcamp Carrefour Web Developer.
 
 ### Links Úteis
