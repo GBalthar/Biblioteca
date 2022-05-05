@@ -11,7 +11,7 @@
 #### O Básico
 - Elemento HTML
 
-![image-20220505113713731](C:\Users\guiba\AppData\Roaming\Typora\typora-user-images\image-20220505113713731.png)
+<img src="https://mdn.mozillademos.org/files/9347/grumpy-cat-small.png">
 
 - Estrutura (Aspas e a falta ou substituição do ">" pelo "^" ao final dos comandos foram usados para o editor de Markdown não se confundir)
   - "<!DOCTYPE html" :arrow_right: Orientação ao navegador do que será escrito
