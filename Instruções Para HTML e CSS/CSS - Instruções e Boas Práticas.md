@@ -78,12 +78,6 @@ Para customizarmos os elementos, abrimos chaves logo depois dos elementos (não 
 
 ---
 
-#### Listas
-
-- 
-
----
-
 #### "Hacks Aprendidos"
 
 - **a** - O elemento *a* no CSS é referente aos links
