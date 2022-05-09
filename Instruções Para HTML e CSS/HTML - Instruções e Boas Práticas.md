@@ -15,7 +15,7 @@
 
 - Estrutura (Aspas e a falta ou substituição do ">" pelo "^" ao final dos comandos foram usados para o editor de Markdown não se confundir)
   - "<!DOCTYPE html" :arrow_right: Orientação ao navegador do que será escrito
-  - "<html"
+  - "<html" lang="pt-br" :arrow_right: Informa o idioma da página
     - "<head" :arrow_right: Cabeçalho do site 
       - "<meta" :arrow_right: Codificação dos caracteres
       - "<title^Exemplo</title" :arrow_right: Coloca o título *exemplo* na aba do navegador
@@ -50,6 +50,7 @@
 
 #### Imagens
 
+- Criar uma pasta chamada *img* dentro da pasta contendo o arquivo HTML
 - **"<img src="img/exemplo.jpg"^"** - Obrigatório para trazer a imagem referenciada
 - **"<img src="img/exemplo.jpg" alt="Foto Exemplo"^"** - Esse comando mostra um texto para o usuário entender o que a imagem significa caso a imagem não carregue. É muito recomendado tê-lo, mas não não é obrigatório
 
