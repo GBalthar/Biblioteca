@@ -23,6 +23,7 @@
 #### Procedimento no CSS
 
 - **Elementos** - Com os comandos "#" para ID e "." para classe, adicionamos os elementos desejados, por exemplo: **#title, .subtitle**. Assim adicionamos o ID *title* e a classe *subtitle* aos elementos do CSS
+- **Comentários** - Para escrever comentários, use /**/ e tudo que estiver entre os asteriscos será um comentário
 
 ---
 
@@ -78,9 +79,31 @@ Para customizarmos os elementos, abrimos chaves logo depois dos elementos (não 
 
 ---
 
+#### Finalidade
+
+- O CSS é um recurso capaz de padronizar a página, então é recomendado que sejam criados comandos para que o layout da página se mantenha "bonito" sem que seja preciso alterar os códigos sempre que um novo elemento for criado.
+
+---
+
+#### Responsividade
+
+- A partir de certo ponto, a tela responsiva não se adequa corretamente ao navegador. Para isso, usamos alguns comandos para restringir a responsividade e fazer com que a página se comporte de forma diferente a partir de certo ponto. Estudar @margin.
+
+---
+
 #### "Hacks Aprendidos"
 
 - **a** - O elemento *a* no CSS é referente aos links
+- ***** - O * no CSS refere-se à página inteira
+- **box-sizing: border-box** - Esse comando restringe os elementos ao limite do elemento onde ele está inserido, ou seja, ele não irá ultrapassar "caixinhas"
+- **Variáveis** - O CSS permite a criação de variáveis para que não seja preciso escrever linhas enormes de código ou ficar lembrando o código das cores
+  - **:root {--cor: #000}** - A variável *cor* foi criada contendo a cor #000
+  - **var(--cor)** - É o comando que chama a variável
+- **Hover** - Para adicionar o efeito de mudança de cor ao passar o mouse sobre o texto, usamos o comando hover
+  - **header nav a:hover{color: gold;}** - Nesse exemplo, todos os comandos pertencentes ao header que contém um navegador (nav) e um link (a), ficam da cor *gold* quando o mouse passa sobre eles
+- **Font Awesome** - Site que permite criar botões com ícones personalizados
+- **Owl Carousel** - Site com comandos Java Script que permitem a criação do efeito *carrossel* através de JQuery
+
 
 ---
 

@@ -67,6 +67,7 @@
 #### "Hacks Aprendidos"
 
 - Tiny PNG - O site *tinypng.com* diminui bastante o arquivo de imagem, é interessante usá-lo para economizar espaço
+- Alt + Shift + :arrow_down: - Clona a linha que você está
 
 ---
 
