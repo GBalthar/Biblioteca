@@ -103,6 +103,7 @@ Para customizarmos os elementos, abrimos chaves logo depois dos elementos (não 
   - **header nav a:hover{color: gold;}** - Nesse exemplo, todos os comandos pertencentes ao header que contém um navegador (nav) e um link (a), ficam da cor *gold* quando o mouse passa sobre eles
 - **Font Awesome** - Site que permite criar botões com ícones personalizados
 - **Owl Carousel** - Site com comandos Java Script que permitem a criação do efeito *carrossel* através de JQuery
+- **Loading.io** - Site que traz ícones animados para adicionar ao site
 
 
 ---

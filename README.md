@@ -7,3 +7,7 @@ Primeiro desafio proposto pelo Bootcamp Carrefour Web Developer.
 ### O Desafio
 Vamos criar um repositório contendo algumas dicas e orientações sobre o uso do Git.
 O desafio em si era simplesmente criar um repositório no GitHub para treinar o processo envolvendo o Git.
+
+
+
+:construction: **WORK IN PROGRESS** :construction:
