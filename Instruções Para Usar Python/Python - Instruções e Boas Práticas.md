@@ -101,12 +101,6 @@ O Python reconhece automaticamente os tipos de dados. Cabe a nós manipularmos o
   - **int** - Números inteiros
   - **float** - Números fracionados
   - **complex** - Números complexos
-
-- **Sequência**
-  - 
-
-- **Mapa** - 
-- **Coleção** - 
 - **Booleano** - **bool**. 0 ou 1. Verdadeiro ou falso basicamente.
 
 ---
